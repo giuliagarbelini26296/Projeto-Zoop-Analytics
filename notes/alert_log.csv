@@ -1,0 +1,3 @@
+data_hora;indicador;valor_disparado;limite;acao_tomada
+20/06/2026 02:15;taxa de aprovação ;84.2%;88.0%;Regras de antifraude revisadas para compras de alto valor na madrugada
+20/06/2026 11:40;Pct Divergencia;5.1%;4.0%;Acionada equipe de TI para checar integracao de descontos no Marketplace
